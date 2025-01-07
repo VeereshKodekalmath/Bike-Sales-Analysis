@@ -2,10 +2,12 @@
 Project Title
 Bike Purchase Analysis Dashboard
 
-Description
+*Description*
+
 An interactive dashboard providing insights into bike purchase trends based on gender, income, commute distance, and age groups.
 
-Features
+*Features*
+
 Average income comparison across genders and purchase decisions.
 Relationship between commute distance and bike purchases.
 Age group segmentation (Adolescent, Middle Age, Old) and its influence on purchasing behavior.
